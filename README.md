@@ -77,6 +77,7 @@ Again, in a separate terminal:
   ```
 
 You should be able to select both Python and Julia kernals as shown below:
+
 ![image](https://github.com/user-attachments/assets/319547b6-dd04-414f-8d12-9b0f2b446130)
 
 
