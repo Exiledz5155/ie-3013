@@ -77,12 +77,18 @@ Again, in a separate terminal:
   ```
 
 You should be able to select both Python and Julia kernals as shown below:
+![image](https://github.com/user-attachments/assets/319547b6-dd04-414f-8d12-9b0f2b446130)
+
 
 ### Saving as PDF
 
 File -> Save and Export Notebook as -> HTML
 
+![image](https://github.com/user-attachments/assets/20ddb9ca-750e-4e6c-90d4-e4ceea31903c)
+
 Then, open the HTML file and right-click -> Print -> Save as PDF.
+
+![image](https://github.com/user-attachments/assets/d722d11e-1bf5-4864-8981-59ba51ef7c90)
 
 ## Lints and formatters
 
