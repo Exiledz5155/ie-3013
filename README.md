@@ -97,7 +97,7 @@ This section isn't needed, nor completely supported by this repo.
 ### For Python:
 
 - If using **VSCode**, I recommend installing the extensions for **Flake8** and **mypy**.
-- **Prettier** is recommended as a code formatter.
+- **Prettier** is recommended as the code formatted (might conflict with the Julia one idk).
 
 ### For Julia:
 
