@@ -1,7 +1,3 @@
-Here’s a similar README adapted for setting up **Julia** and **Python** environments in your repository:
-
----
-
 # IE-3013 
 
 This repository is a boilerplate/template for classwork in CSCI 4521, now featuring both **Julia** and **Python** setups!
