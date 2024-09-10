@@ -1,6 +1,6 @@
 # IE-3013 
 
-This repository is a boilerplate/template for classwork in CSCI 4521, now featuring both **Julia** and **Python** setups!
+This repository is a boilerplate/template for classwork in IE-3013
 
 ## Setup Instructions
 
